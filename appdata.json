@@ -1,0 +1,27 @@
+{
+  "appointments": [
+    {
+      "id": 1,
+      "vuelo": "Tickets aereos",
+      "hospedaje": "hotel Santa Clara",
+      "traslado": "movilidad ",
+      "alquiler": "alquiler camioneta",
+      "adelanto": "150"
+    },
+   {
+      "id": 2,
+      "vuelo": "Tickets aereos",
+      "hospedaje": "hotel Leon",
+      "traslado": "movilidad ",
+      "alquiler": "alquiler camioneta",
+      "adelanto": "200"
+    },
+    {
+      "id": 3,
+      "vuelo": "Tickets aereos",
+      "hospedaje": "hotel los Delfines",
+      "traslado": "movilidad ",
+      "alquiler": "alquiler camioneta",
+      "adelanto": "300"
+    }
+  ]
